@@ -47,8 +47,8 @@
 
 ![image](https://github.com/d-kavinraja/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119875375/3838ed2b-bacb-4e32-b717-5ee14d43db62)
 
-### Name: VISHAL S
-### Register Number: 212223110063
+### Name: GANESH R
+### Register Number: 212222240029
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
